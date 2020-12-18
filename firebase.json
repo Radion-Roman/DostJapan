@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "DostJapan",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
